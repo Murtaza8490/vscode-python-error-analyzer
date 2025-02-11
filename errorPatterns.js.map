@@ -1,0 +1,1 @@
+{"version":3,"file":"errorPatterns.js","sourceRoot":"","sources":["../src/errorPatterns.ts"],"names":[],"mappings":";;;AASa,QAAA,mBAAmB,GAA8B;IAC1D,iBAAiB,EAAE,wCAAwC;IAC3D,WAAW,EAAE,mBAAmB;IAChC,gBAAgB,EAAE,wBAAwB;IAC1C,WAAW,EAAE,mBAAmB;IAChC,SAAS,EAAE,iBAAiB;CAC/B,CAAC"}
